@@ -1,0 +1,12 @@
+codename: CC_Launcher
+description: |
+  Full-screen terminal picker over an Obsidian vault. Grades every project
+  against the readiness gates, shows what is missing from the incomplete ones,
+  and launches Claude Code in the matching codebase with the vault mounted as
+  context.
+
+  Updates follow published releases by default; --update-nightly follows the
+  branch tip instead.
+repository: https://github.com/lukaszbryzek/CC-Launcher
+version: 0.1.0
+author: Łukasz Bryzek
